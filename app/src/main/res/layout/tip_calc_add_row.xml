@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dip" >
+
+    <EditText
+        android:id="@+id/new_restaurant"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/restaurant" />
+
+    <EditText
+        android:id="@+id/new_price"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/price" />
+
+    <EditText
+        android:id="@+id/new_percent"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tip Percentage (10, 15 or 20)"/>
+
+    <EditText
+        android:id="@+id/new_date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Date (DD/MM/YYYY)" />
+
+    <EditText
+        android:id="@+id/new_note"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/notes" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="saveTip"
+        android:text="Save" />
+
+
+</LinearLayout>

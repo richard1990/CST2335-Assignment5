@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FINAL PROJECT</string>
+
+    <string name="add_entry">Add New Trip Data</string>
+    <string name="delete_entry">Delete Trip Data</string>
+    <string name="help">Help</string>
+
+    <string name="trip_category_string">Trip Category</string>
+    <string name="vehicle_type_string">Vehicle Type</string>
+    <string name="distance_string">Distance</string>
+    <string name="date_string">Date</string>
+    <string name="co2_emission_string">CO2 Emission</string>
+    <string name="note_string">Note</string>
+
+    <string name="trip_category_input_string">&lt;Trip Category Goes Here&gt;</string>
+    <string name="vehicle_type_input_string">&lt;Trip Category Goes Here&gt;</string>
+    <string name="distance_input_string">&lt;Trip Category Goes Here&gt;</string>
+    <string name="date_input_string">&lt;Trip Category Goes Here&gt;</string>
+    <string name="co2_emission_input_string">&lt;Trip Category Goes Here&gt;</string>
+    <string name="note_input_string">&lt;Trip Category Goes Here&gt;</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="add_new_contact">Add New Contact</string>
+
+
+    <string name="restaurant">Restaurant</string>
+    <string name="price">Price</string>
+    <string name="percent">Tip Percent</string>
+    <string name="tip">Tip Amount</string>
+    <string name="total">Total</string>
+    <string name="date">Date</string>
+    <string name="notes">Notes</string>
+    <string name="newButton">New Entry</string>
+    <string name="deleteButton">Delete</string>
+</resources>
